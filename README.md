@@ -1,4 +1,5 @@
 ## Hi there 👋 Ayesha Batool
+Student of Business Administration
 
 <!--
 **Ayesha Batool** 
