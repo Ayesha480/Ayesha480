@@ -5,3 +5,4 @@ Student of Business Administration
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/ayesha-batool-aba679241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 .. >
 and Twitter https://x.com/uniqename_06?t=17PdbpcvZQHhDT5PxFwEeQ&s=09
+and aishabatool58@gmail.com
