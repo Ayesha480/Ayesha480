@@ -1,7 +1,27 @@
 ## Hi there 👋 Ayesha Batool
 Student of Business Administration
 🔭 I’m currently Student of BBA..
-- 🌱 I’m currently learning about MLSA, PSL, ALP, and other different programs...As a dedicated BBA student, I have immersed myself in a diverse range of subjects and courses to build a robust skill set. My academic journey includes comprehensive studies in Human Resource Management (HRM), Digital Marketing, and E-commerce, complemented by proficiency in MS Office. I've expanded my knowledge through introductions to Cloud Computing and AI, specifically tailored for everyone, which have given me a solid foundation in these cutting-edge technologies. My expertise extends to Search Engine Optimization (SEO) and Advanced Google Analytics, equipping me with the analytical skills needed to drive impactful marketing strategies. Additionally, I have achieved Postman Fundamentals Expert certification, demonstrating my technical abilities in API development and testing. My interest in design is showcased through my UI/UX Design coursework, and I have further enhanced my learning through various IBM courses. As a student at the Aspire Institute, I am actively engaged in the Aspire Leader Program, which is honing my leadership and management skills. This diverse educational background, combined with practical certifications, positions me uniquely to contribute effectively in various business and technology roles.
+- 🌱 # About Me
+
+I am a dedicated BBA student actively exploring various programs such as MLSA, PSL, and ALP. My academic journey includes a diverse range of subjects and certifications, equipping me with a robust skill set to excel in business and technology roles.
+
+### Education and Skills:
+- **Human Resource Management (HRM)**: Comprehensive studies in HRM strategies.
+- **Digital Marketing & E-commerce**: Skilled in driving impactful marketing strategies.
+- **MS Office**: Proficient in Microsoft Office applications.
+- **Cloud Computing & AI**: Solid foundation in cloud technologies and AI for everyone.
+- **SEO & Advanced Google Analytics**: Analytical skills for data-driven marketing strategies.
+- **UI/UX Design**: Expertise in user interface and experience design.
+
+ Certifications:
+- **Postman Fundamentals Expert Certification**: Demonstrates proficiency in API development and testing.
+- **IBM Courses**: Completed various IBM courses to enhance my technological skills.
+
+### Leadership Development:
+- **Aspire Leader Program (Aspire Institute)**: Actively developing leadership and management skills through the Aspire Leader Program.
+
+I am always eager to learn new things and apply my knowledge in real-world scenarios. Connect with me to discuss business, technology, or collaboration opportunities.
+
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/ayesha-batool-aba679241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 .. >
 and Twitter https://x.com/uniqename_06?t=17PdbpcvZQHhDT5PxFwEeQ&s=09
