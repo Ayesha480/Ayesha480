@@ -3,7 +3,7 @@ Student of Business Administration
 🔭 I’m currently Student of BBA..
 - 🌱 # About Me
 
-I am a dedicated BBA student actively exploring various programs such as MLSA, PSL, and ALP. My academic journey includes a diverse range of subjects and certifications, equipping me with a robust skill set to excel in business and technology roles.
+I am a dedicated BBA student actively exploring various programs such as PSL, and ALP. My academic journey includes a diverse range of subjects and certifications, equipping me with a robust skill set to excel in business and technology roles.
 
 ### Education and Skills:
 - **Human Resource Management (HRM)**: Comprehensive studies in HRM strategies.
