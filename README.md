@@ -28,6 +28,9 @@ and Twitter https://x.com/uniqename_06?t=17PdbpcvZQHhDT5PxFwEeQ&s=09
 and aishabatool58@gmail.com
 
 ## GSSOC(24) Badges
+![17299339245941848281333674042040](https://github.com/user-attachments/assets/7e62ef02-7d68-4f72-a22a-b6abd0faff98)
 ![17299337241921764820078219038811](https://github.com/user-attachments/assets/8039c4bf-ff10-48eb-a827-b1bc35e1ae54)
 ![17299338043474756667766585257269](https://github.com/user-attachments/assets/2d21dbdc-bf8f-4ae5-a5cb-f2d89d90290a)
-
+![17299338907374989823849331028515](https://github.com/user-attachments/assets/987b3aa0-ee25-4254-bd7f-4e15bcc09d88)
+![17299338725486515482480609004550](https://github.com/user-attachments/assets/8ad2d2e6-3939-4e8d-b393-3d48b7957ae0)
+![17299339058871869926764897190356](https://github.com/user-attachments/assets/97425b18-a4ed-441d-8221-9f0325dd167c)
