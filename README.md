@@ -16,9 +16,6 @@ I am a dedicated BBA student actively exploring various programs such as PSL, an
  Certifications:
 - **Postman Fundamentals Expert Certification**: Demonstrates proficiency in API development and testing.
 - **IBM Courses**: Completed various IBM courses to enhance my technological skills.
-![17299341264783796002617288597321](https://github.com/user-attachments/assets/8a40c171-ac0f-4e6e-bfb7-e310dde4974d)
-![17299342035911647561615866723111](https://github.com/user-attachments/assets/f07fe5aa-ca67-4a56-9140-00635353d9df)
-
 ### Leadership Development:
 - **Aspire Leader Program (Aspire Institute)**: Actively developing leadership and management skills through the Aspire Leader Program.
 
