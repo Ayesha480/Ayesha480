@@ -26,6 +26,10 @@ I am always eager to learn new things and apply my knowledge in real-world scena
 and Twitter https://x.com/uniqename_06?t=17PdbpcvZQHhDT5PxFwEeQ&s=09
 and aishabatool58@gmail.com
 
+🚀🎯Explore my professional experience:
+https://drive.google.com/file/d/11xL_rEK0x27S_YZsrnREARjE-vYC2Lh3/view?usp=drivesdk
+
+ 
 ## GSSOC(24) Badges
 ![17299339245941848281333674042040](https://github.com/user-attachments/assets/7e62ef02-7d68-4f72-a22a-b6abd0faff98)
 ![17299337241921764820078219038811](https://github.com/user-attachments/assets/8039c4bf-ff10-48eb-a827-b1bc35e1ae54)
